@@ -13,7 +13,9 @@
 ・アジャイル型開発（スクラム）  
 ・Trelloによるタスク管理  
 
-
+## 実装機能
+![](https://i.gyazo.com/30609fd5419baa4a37efae0f69e47333.png)  
+![](https://i.gyazo.com/144444657ffa4e784ec03e3fec7adfe1.png)
 
 ##  usersテーブル
 |Column|Type|Options|

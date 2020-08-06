@@ -1,17 +1,19 @@
-# README
+# アプリの概要
+### フリーマーケットのアプリケーションを作成しました。
+![画像の説明](https://i.gyazo.com/d9ef649dec804033338536dafd110b0a.png)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 開発状況
+#### 開発環境  
+・Ruby/Ruby on Rails/MySQL/Github/AWS/Visual Studio Code  
+#### 開発期間と平均作業時間  
+・開発期間：約4週間  
+・1日あたりの平均作業時間：約9時間  
+#### 開発体制
+・人数：5名  
+・アジャイル型開発（スクラム）  
+・Trelloによるタスク管理  
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
 
 ##  usersテーブル
 |Column|Type|Options|
